@@ -4,5 +4,8 @@
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.6</pydev_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}</path>
+<path>/${PROJECT_DIR_NAME}/chapter7/flask_7a</path>
+<path>/${PROJECT_DIR_NAME}/chapter8/flask_8a</path>
+<path>/${PROJECT_DIR_NAME}/chapter8/flask_8b</path>
 </pydev_pathproperty>
 </pydev_project>

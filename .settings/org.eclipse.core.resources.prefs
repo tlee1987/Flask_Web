@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//RestfulAPI/restful_03.py=utf-8
 encoding//chapter2/flask_2a.py=utf-8
 encoding//chapter2/flask_2b.py=utf-8
 encoding//chapter2/flask_2c.py=utf-8
@@ -14,6 +15,7 @@ encoding//chapter7/flask_7a/app/main/forms.py=utf-8
 encoding//chapter7/flask_7a/app/main/views.py=utf-8
 encoding//chapter7/flask_7a/app/models.py=utf-8
 encoding//chapter7/flask_7a/manager.py=utf-8
+encoding//chapter8/flask_8a/app/main/views.py=utf-8
 encoding//chapter8/flask_8a/app/models.py=utf-8
 encoding//chapter8/flask_8a/manager.py=utf-8
 encoding//chapter8/flask_8b/app/auth/views.py=utf-8

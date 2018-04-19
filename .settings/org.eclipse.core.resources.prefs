@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+encoding//Flask-Mega/app/views.py=utf-8
+encoding//Flask-Mega/config.py=utf-8
+encoding//Flask-Mega/db_create.py=utf-8
+encoding//Flask-Mega/run.py=utf-8
 encoding//RestfulAPI/restful_03.py=utf-8
 encoding//chapter2/flask_2a.py=utf-8
 encoding//chapter2/flask_2b.py=utf-8
